@@ -17,7 +17,7 @@ def index():
         <title>PawsSwipe</title>
       </head>
       <body>
-<h1>🐶🐱 Welcome to PawsSwipe PRO: Dogs & Cats [SECURED] 🔒</h1>
+<h1>🐶🐱 Welcome to PawsSwipe PRO: Dogs & Cats [SECURED by ameni] 🔒</h1>
         <p>System Status: Connected to Database at [{DB_URL}]</p>
       </body>
     </html>
